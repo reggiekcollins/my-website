@@ -6,4 +6,8 @@ Editing this page for an example on the example branch. Just some filler text.
 
 now this is the new edited line march 16 for the readme file...
 
-this is a local edit i made using the terminal 
+this is a local edit i made using the terminal
+
+## Repository Purpose
+
+This will be a change that conflicts with whatever is on the remote side. This was edited locally.
