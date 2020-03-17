@@ -10,4 +10,6 @@ this is a local edit i made using the terminal
 
 ## Repository Purpose
 
-This will be a change that conflicts with whatever is on the remote side. This was edited locally.
+# This file is just a readme file...
+
+this is a local edit i made using the terminal
