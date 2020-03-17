@@ -7,3 +7,6 @@ Editing this page for an example on the example branch. Just some filler text.
 now this is the new edited line march 16 for the readme file...
 
 this is a local edit i made using the terminal 
+
+## Purpose 
+This file is just a readme file...
