@@ -13,3 +13,7 @@ this is a local edit i made using the terminal
 # This file is just a readme file...
 
 this is a local edit i made using the terminal
+
+## Getting Started Section
+
+To get started with this project, just clone this repository.
